@@ -5,10 +5,10 @@
 - 🏹 Me dedico em aplicar ferramentas para Clean Code e Reestruturação de Códigos. 
 - 🧑‍💻 Procuro expandir meus conhecimentos para possuir maior amplitude de visão tanto em Back-End como em Front-End, através de noções de Design Paterns, Data Structure, entre outros. 
 
-<div align="center">
+<div align="left">
   <a href="https://https://github.com/GabrielArienti">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GabrielArienti&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielArienti&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielArienti&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielArienti&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
 
  ##
