@@ -1,4 +1,4 @@
-## Oi, tudo bem? Me chamo Gabriel Arienti
+## Olá, tudo bem? Me chamo Gabriel Arienti
 
 - 🖥️ Atualmente estou trabalhando com Back-End
 - 📚 Tenho conhecimentos em Python, C# e JavaScript. Utilizando também NodeJS, TypeScript, Docker, SQL, Django, Unity Test e GIT.
