@@ -1,9 +1,9 @@
 ## Olá, tudo bem? Me chamo Gabriel Arienti
 
 - 🖥️ Atualmente estou trabalhando com Back-End
-- 📚 Tenho conhecimentos em linguagem Python, C# e JavaScript. Noções em Django, SQL, NodeJS, TypeScript e Docker.
+- 📚 Tenho conhecimentos sólidos em linguagem Python, SQL e Django. 
 - 🏹 Me dedico em utilizar técnicas e parâmetros de Clean Coding, bem como aplicação e uso do Git e Unity Test.  
-- 🧑‍💻 Procuro expandir meus conhecimentos para possuir maior amplitude de visão tanto em Back-End como em Front-End, através de noções de Design Paterns, Data Structure, entre outros. 
+- 🧑‍💻 Estudando atualmente C# e JavaScript, NodeJS, TypeScript,Docker, Design Paterns e Data Structure. 
 
 <div align="left">
   <a href="https://https://github.com/GabrielArienti">
