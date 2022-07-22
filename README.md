@@ -1,7 +1,7 @@
 ## Olá, tudo bem? Me chamo Gabriel Arienti
 
 - 🖥️ Atualmente estou trabalhando com Back-End
-- 📚 Tenho conhecimentos sólidos em linguagem Python, SQL e Django. 
+- 📚 Tenho conhecimentos sólidos em Python, SQL e Django. 
 - 🏹 Me dedico em utilizar técnicas e parâmetros de Clean Coding, bem como aplicação e uso do Git e Unity Test.  
 - 🧑‍💻 Estudando atualmente C# e JavaScript, NodeJS, TypeScript,Docker, Design Paterns e Data Structure. 
 
