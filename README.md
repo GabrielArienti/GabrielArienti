@@ -3,7 +3,7 @@
 - 🖥️ Atualmente estou trabalhando com Back-End
 - 📚 Tenho conhecimentos sólidos em Python, SQL e Django. 
 - 🏹 Me dedico em utilizar técnicas e parâmetros de Clean Coding, bem como aplicação e uso do Git e Unity Test.  
-- 🧑‍💻 Estudando atualmente C# e JavaScript, NodeJS, TypeScript,Docker, Design Paterns e Data Structure. 
+- 🧑‍💻 Estudando atualmente C# e JavaScript, NodeJS, Docker, Design Paterns, Data Structure e TypeScript. 
 
 <div align="left">
   <a href="https://https://github.com/GabrielArienti">
