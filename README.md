@@ -3,7 +3,7 @@
 - 🖥️ Atualmente estou trabalhando desenvolvimento Full-Stack em Python
 - 📚 Tenho conhecimentos sólidos em Python, API's, SQL, Django e Tkinter. 
 - 🏹 Me dedico em utilizar técnicas e parâmetros de Clean Coding, bem como aplicação e uso do Git e Unity Test.  
-- 🧑‍💻 Estudando atualmente C# e JavaScript, NodeJS, Docker, Design Paterns, Data Structure e TypeScript. 
+- 🧑‍💻 Estudo atualmente C# e JavaScript bem como NodeJS, Docker, Design Paterns, Data Structure e TypeScript. 
 
 <div align="left">
   <a href="https://https://github.com/GabrielArienti">
