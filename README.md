@@ -1,7 +1,7 @@
 ## Olá, tudo bem? Me chamo Gabriel Arienti
 
 - 🖥️ Atualmente estou trabalhando desenvolvimento Full-Stack em Python
-- 📚 Tenho conhecimentos sólidos em Python, API's, SQL, Django e Tkinter. 
+- 📚 Tenho conhecimentos sólidos em Python, API's, Json, SQL, Django e Tkinter. 
 - 🏹 Me dedico em utilizar técnicas e parâmetros de Clean Coding, bem como aplicação e uso do Git e Unity Test.  
 - 🧑‍💻 Estudo atualmente C# e JavaScript bem como NodeJS, Docker, Design Paterns, Data Structure e TypeScript. 
 
