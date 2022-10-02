@@ -2,7 +2,7 @@
 
 - 🖥️ Desenvolvedor Full-Stack
 - 📚 Tenho conhecimentos sólidos em Python, Java, JavaScript, HTML e CSS, bem como SQL e na utilização de API's, Json, Matplotlib, Pandas, Numpy e Tkinter. 
-- 🏹 Me dedico em utilizar técnicas e parâmetros de Clean Coding, bem como aplicação e uso do Git e Unity Test.  
+- 🏹 Me dedico em utilizar técnicas e parâmetros de Clean Coding e Refatoração de Código. Ademais, tenho conhecimentos em Testes Unitários e na utilização de versionamento de códigos com Git e GitHub  
 - 🧑‍💻 Estudo atualmente C# e JavaScript, bem como SOLID, NodeJS, Django, Docker, Design Paterns, Data Structure e TypeScript. 
 
 <div align="left">
