@@ -1,6 +1,6 @@
 ## Olá, tudo bem? Me chamo Gabriel Arienti
 
-- 🖥️ Programador Full Stack em Python
+- 🖥️ Desenvolvedor Full-Stack
 - 📚 Tenho conhecimentos sólidos em Python, SQL e na utilização de API's, Json, Matplotlib, Pandas, Numpy e Tkinter. 
 - 🏹 Me dedico em utilizar técnicas e parâmetros de Clean Coding, bem como aplicação e uso do Git e Unity Test.  
 - 🧑‍💻 Estudo atualmente C# e JavaScript, bem como SOLID, NodeJS, Django, Docker, Design Paterns, Data Structure e TypeScript. 
