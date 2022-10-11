@@ -1,9 +1,9 @@
 ## Olá, tudo bem? Me chamo Gabriel Arienti
 
-- 🖥️ Desenvolvedor Full-Stack e Desenvolvedor Web
-- 🧑‍💻 Conhecimentos sólidos em: Back-End (Python, Java, SQL e MySQL, uso de API's, Json, Matplotlib, Pandas, Numpy e Tkinter) e Front-End (HTML, CSS, JavaScript, Bootstrap);  
+- 🖥️ Desenvolvedor Full-Stack & Web
+- 🧑‍💻 Conhecimentos sólidos em: Back-End (Python, Java, SQL e MySQL, uso de API's, Json, Matplotlib, Pandas, Numpy e Tkinter) e Front-End (HTML, CSS, JavaScript, Bootstrap, React, Angular e Ionic);  
 - 🏹 Me dedico em utilizar técnicas e parâmetros de Clean Coding, como SOLID, e Refatoração de Código. Ademais, tenho conhecimentos em Testes Unitários e na utilização de versionamento de códigos com Git e GitHub  
-- 📚 Atualmente estudando React, Anular e Ionic, bem como Desing Paterns e DataStructure. 
+- 📚 Atualmente estudando Desing Paterns e DataStructure, bem como TypeScript. 
 
 <div align="left">
   <a href="https://https://github.com/GabrielArienti">
