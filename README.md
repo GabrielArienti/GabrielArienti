@@ -1,6 +1,6 @@
 ## Olá, tudo bem? Me chamo Gabriel Arienti
 
-- 🖥️ Full Stack Front End & Web Developer
+- 🖥️ Front End & Web Developer
 - 🧑‍💻 Solid knowledge in web development with React, Redux, HTML, CSS, JavaScript & TypeScript, Node.js, MongoDB, Postgree, MySQL. As well as knowledge in Angular, Python, Java and C.
 - 🏹 I dedicate myself to using Desing Patterns techniques, Data Structure, and Clean Coding parameters, such as SOLID, to write and refactor codes. In addition, I have knowledge in Unit Testing and the use of code versioning with Git and GitHub, DevOps with Docker and Agile Methodologies such as Scrum and Kanban.
 
